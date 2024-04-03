@@ -1,0 +1,311 @@
+body{
+    text-align: center;
+    background-image: url(https://i.ibb.co/P9vgPdW/fundo.jpg);
+    background-size: 100%;
+}
+.barracima{
+    width: 100px;
+    height: 100px;
+    margin-right: 1200px;
+    background-color: goldenrod;
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    
+}
+.barracima:hover{
+    opacity: 0.8;
+    background-color: aqua;
+}
+/* .img1{
+    height: 180px;
+    width: 180px;
+    margin-left: 10px;
+    margin-top: 13px; */
+
+.img2{
+    height: 180px;
+    width: 180px;
+}
+.img3{
+    height: 180px;
+    width: 180px;
+}
+.img4{
+    height: 180px;
+    width: 180px;
+}
+
+.btn{
+    display: inline-block;
+    background: goldenrod;
+    color: black;
+    padding: 0.8em 1.8em;
+    margin-top: 2em;
+    cursor: default;
+    border-radius: 15px;
+    font-family: sans-serif;
+    
+    
+
+ }
+ .btn:hover{
+    background-color: aqua;
+    opacity: 0.8;
+ }
+ .ajustar{
+    display: inline-block;
+    background: goldenrod;
+    color: black;
+    cursor: default;
+    padding: 1em 1.5em;
+    border-radius: 15px;
+   margin-top: 2em;
+   font-family: sans-serif;
+    
+    
+ }
+ .PJ{
+    
+    width: 81%;
+    height: 50%;
+    margin-left: 130px;
+    margin-right: 130px;
+    
+ } 
+ 
+ .PJ2{
+    
+    width: 81%;
+    height: 50%; 
+    margin-left: 120px;
+    margin-right: 130px;
+ }
+ .velha{
+    width: 100%;
+    height: 50%;
+    margin-left: 1px;
+ }
+ .eu{
+    
+    padding: cover;
+    
+ }
+ .fotoMinha{
+    background-color: rgba(218, 165, 32, 0.438);
+    padding: over;
+    height: 650px;
+    width: 600px;
+ }
+ 
+    
+
+ 
+
+ img{
+    width: 900px;
+    height: 900px;
+    border-radius: 30px;
+    
+    
+    
+    
+
+   
+ }
+
+
+a{
+        text-decoration: none;
+        margin-top: 20px;
+
+    }
+
+h1{
+    color: white;
+    font-size: 60px;
+    font-family: sans-serif;
+    margin-left: 67px;
+    margin-top: 100px;
+    margin-right: 450px;
+    margin-bottom: 50px ;
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.267);
+    border-radius: 36px;
+    
+
+    
+}
+p{
+    font-family: sans-serif;
+    color: white;
+    margin-right: 190px;
+    font-size: 23px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-left: 160px;
+    padding: 22px;
+    background-color: rgba(218, 165, 32, 0.582);
+    border-radius: 15px;
+    text-align: center;
+    
+    
+}
+h2{
+    font-family: sans-serif;
+    color: white;
+    margin-top: 100px;
+    font-size: 32px;
+   
+}
+h3{
+    color: goldenrod;
+    font-family: sans-serif;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-size: 35px;
+}
+h4{
+    font-family: sans-serif;
+    color: goldenrod;
+    font-size: 40px;
+    margin-bottom: 80px;
+    margin-top: 90px;
+}
+h5{
+    font-family: sans-serif;
+    color: goldenrod;
+    font-size: 40px;
+}
+h6{
+    font-family: sans-serif;
+    color: goldenrod;
+    font-size: 35px;
+}
+
+
+
+.velha{
+    height: 750px;
+    width: 900px;
+     margin: 215px; 
+    border-radius: 36px;
+    margin-top: 100px;
+    border-radius: 40px;
+   
+}
+.calculadora{
+    margin-right: 270px;
+    height: 700px;
+    width: 1300px;
+    margin-bottom: 60px;
+    border-radius: 40px;
+
+}
+.calc{
+    height: 100%;
+    width: 72%;
+    margin-left: 30px;
+    border-radius: 40px;
+    margin-top: 50px;
+
+}
+footer{
+    font-family: sans-serif;
+    background-color: goldenrod;
+    margin-top: 75px;
+    font-size: 30px;
+    padding: 3%;
+    margin-left: -1%;
+    margin-right: -1%;
+    margin-bottom: -1%;
+    border-radius: 50px;
+    color: whitesmoke;
+}
+.teste{
+    width: 40px;
+    height: 45px;
+    margin-top: 5px;
+
+}
+.teste{
+    width: 30px;
+    height: 30px;
+}
+.ideia{
+    margin-bottom: 50px;
+
+}
+.ideias{
+    margin-top: 2px;
+   
+}
+script{
+    font-family: sans-serif;
+    margin-left: 1500px;
+
+}
+button{
+    background-color:  goldenrod;
+    font-size: 30px;
+    border-radius: 25px;
+}
+input{
+    font-size: 20px;
+    border-radius: 15px;
+    
+}
+
+@media (max-width:800px){
+
+    body{
+        text-align: center;
+        
+    }
+        
+    h1{
+        font-size: 35px;
+        border-radius: 36px;
+        padding: 150px;
+       
+        
+    }
+    p{
+        font-size: 30px;
+        margin-left: 25px;
+        margin-left: 100px;
+        border-radius: 935px;
+        font-family: sans-serif;
+        
+    }
+    .fotoMinha{
+        height: 375px;
+        width: 375px;
+    }
+    .Pj1{  
+        height: 275px;
+        width: 275px;
+        margin-right: 100em;
+    }
+    .Pj{
+        margin-right: 35px;
+        height: 500px;
+    }
+
+    .Pj2{
+    height: 375px;
+    width: 375px;
+    margin-right: 200px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
